@@ -1,4 +1,4 @@
-# 🌐 Personal Website (WIP)
+# 🌐 Personal Website
 
 Welcome to my personal website — a showcase of my portfolio, projects, and professional journey.
 
