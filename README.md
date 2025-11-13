@@ -28,21 +28,21 @@ It's designed to be **minimal, responsive, and fast**, built entirely with HTML,
 
 ## 📁 Folder Structure
 
-'''
-Personal-Website/  
-│  
-├── index.html  
-├── style.css  
-├── script.js  
-├── images/  
-│   └── my-photo.jpeg  
-└── favicon_io/  
-    ├── favicon.ico  
-    ├── favicon-16x16.png  
-    ├── favicon-32x32.png  
-    ├── apple-touch-icon.png  
-    └── site.webmanifest
-'''
+```
+Personal-Website/
+│
+├── index.html # Home page
+├── style.css # Stylesheet
+├── script.js # JavaScript file
+├── images/ # Images used in the website
+│ └── my-photo.jpeg
+└── favicon_io/ # Favicon files
+├── favicon.ico
+├── favicon-16x16.png
+├── favicon-32x32.png
+├── apple-touch-icon.png
+└── site.webmanifest
+```
 
 ---
 
