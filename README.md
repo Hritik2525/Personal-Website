@@ -28,6 +28,7 @@ It's designed to be **minimal, responsive, and fast**, built entirely with HTML,
 
 ## 📁 Folder Structure
 
+'''
 Personal-Website/  
 │  
 ├── index.html  
@@ -41,6 +42,7 @@ Personal-Website/
     ├── favicon-32x32.png  
     ├── apple-touch-icon.png  
     └── site.webmanifest
+'''
 
 ---
 
